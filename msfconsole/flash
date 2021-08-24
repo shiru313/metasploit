@@ -1,0 +1,14 @@
+cd 
+git clone https://github.com/rapid7/metasploit-framework.git
+clear
+cd metasploit
+cd msfconsole
+cat logo
+sleep 1.0
+clear
+cat logo1
+sleep 1.0
+clear
+cat logo2
+sleep 1.0
+bash notise.sh
